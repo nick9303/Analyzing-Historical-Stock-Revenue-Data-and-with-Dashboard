@@ -1,8 +1,8 @@
-##Extracting and Visualizing Stock Data
+##Extracting and Visualizing Stock Data##
 Description
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
 
-##Table of Contents
+##Table of Contents##
 Define a Function that Makes a Graph
 Question 1: Use yfinance to Extract Stock Data
 Question 2: Use Webscraping to Extract Tesla Revenue Data
