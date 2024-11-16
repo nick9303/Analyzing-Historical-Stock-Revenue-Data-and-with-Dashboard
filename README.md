@@ -1,3 +1,9 @@
+<p style="text-align:center">
+    <a href="https://nick9303.github.io/" target="_blank">
+    <img src="https://nick9303.github.io/imgs/logo.png" width="200" alt="NBC Logo">
+    </a>
+</p>
+
 # Extracting and Visualizing Stock Data
 ## Description
 
